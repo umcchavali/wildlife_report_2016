@@ -7,7 +7,7 @@ The Exploration of the IUCN Red List Species through Tableau
 This project "The Wildlife Report" on Tableau is a way analyze the comprehensive dataset of the IUCN Red List of Species. It aims to uncover insights into species conservation status, distribution patterns, and temporal trends. Through interactive dashboards, the analysis provides stakeholders with a clear understanding of biodiversity hotspots, extinction risks, and the urgency of conservation efforts. This project serves as a valuable tool for informed decision-making and action towards preserving global biodiversity.
 
 ## Steps:
-1. Load data into Tableau 
+1. Load data into Tableau (CSV file) - (Here I tried to merge 2 csv files but it seemed to not overlap properly due to deficient data. Data directly loaded from IUCN can be very extensive and is a little hard to work with as it may crash Tableau. Hence, after some research and a few modifications I was able to use this data file)
 2. Have your readme file to understand the data in a better way
 3. I went ahead and renamed some of my rows to make it easier to follow (Example: EX = Extinct)
 4. Filter 1 - Choose Region → Include All
@@ -34,6 +34,11 @@ References
 IUCN 2016. The IUCN Red List of Threatened Species. Version 2016-2. http://www.iucnredlist.org. 1 November 2016.
 
 Inspired from https://github.com/fabi-cast/Tableau-red-list-species?tab=readme-ov-file & https://public.tableau.com/app/profile/luke.donovan/viz/TheWildlifeReport2020/WildlifeReport2020 - thank you!
+
+## Future Direction
+The aim of this project is to contimue to research and contribute towards wildlife conservation while also giving the numbers. My vision is to make this visual over the years from the 1900's to the present. It will give us insights into how the world is changing and what measures must be taken to preserve the magical creatures of the wild. 
+The availability of data in this domain is a little generic or can be very hard to find publicaly. IUCN does a great job of providing data which can sometimes be overwhelming becuase of its vast size. To analyze the data further it would be a nice idea to create a separate excel sheet or a database with necessary fields to make this this process easier.
+
 
 ## References
 ### Information about specific extinct species: 
