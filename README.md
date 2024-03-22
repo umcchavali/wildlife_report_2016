@@ -1,4 +1,6 @@
 # wildlife_report_2016
+https://public.tableau.com/app/profile/uma.chavali/viz/RedListAnimalsIUCN/Story1
+
 The Exploration of the IUCN Red List Species through Tableau 
 
 This project "The Wildlife Report" on Tableau is a way analyze the comprehensive dataset of the IUCN Red List of Species. It aims to uncover insights into species conservation status, distribution patterns, and temporal trends. Through interactive dashboards, the analysis provides stakeholders with a clear understanding of biodiversity hotspots, extinction risks, and the urgency of conservation efforts. This project serves as a valuable tool for informed decision-making and action towards preserving global biodiversity.
