@@ -27,17 +27,17 @@ Go to https://www.iucnredlist.org/resources/summary-statistics#Figure%202
 
 PDF Download Table 8 A - (Total, total threatened, and total EX or EW endemic bird, mammal, reptile and amphibian species in each country for groups where >80% of species in the group have been assessed (totals by taxonomic group).)
 
-Readily Available (Public) - Ready to use CSV File (IUCN 2016):
+Available (Public) - CSV File (IUCN 2016):
 CSV Downloaded Dataset from: https://jadonwagstaff.github.io/big_data/visualization 
-Readme File is also available here.
-References
-IUCN 2016. The IUCN Red List of Threatened Species. Version 2016-2. http://www.iucnredlist.org. 1 November 2016.
+Data has been slightly modified and uploaded in the files
 
+References: IUCN 2016. The IUCN Red List of Threatened Species. Version 2016-2. http://www.iucnredlist.org. 1 November 2016.
 Inspired from https://github.com/fabi-cast/Tableau-red-list-species?tab=readme-ov-file & https://public.tableau.com/app/profile/luke.donovan/viz/TheWildlifeReport2020/WildlifeReport2020 - thank you!
 
 ## Future Direction
 The aim of this project is to contimue to research and contribute towards wildlife conservation while also giving the numbers. My vision is to make this visual over the years from the 1900's to the present. It will give us insights into how the world is changing and what measures must be taken to preserve the magical creatures of the wild. 
 The availability of data in this domain is a little generic or can be very hard to find publicaly. IUCN does a great job of providing data which can sometimes be overwhelming becuase of its vast size. To analyze the data further it would be a nice idea to create a separate excel sheet or a database with necessary fields to make this this process easier.
+Under the 'extra_files' branch more data is linked from which more analysis can be done
 
 
 ## References
